@@ -40,6 +40,8 @@ If you find this project useful, you can buy author a glass of juice :tropical_d
 donate
 <p align="center">
  <img width="250" height= "250" src="./static/wechat.jpeg">
+</p>
+<p align="center">
  <img width="250" height= "250" src="./static/zhifubao.jpeg">
 </p>
 
